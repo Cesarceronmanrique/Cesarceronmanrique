@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **python applied to computer vision.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
